@@ -1,36 +1,39 @@
-# INCLASS AI - Intelligent Classroom Attendance System
+# Intelligent Enterprise Assistant for Public Sector
 
-![INCLASS AI](https://img.shields.io/badge/INCLASS-AI-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![Flask](https://img.shields.io/badge/Flask-2.3.3-lightgrey)
-![Face Recognition](https://img.shields.io/badge/Face--Recognition-1.5.0-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+A comprehensive, production-ready AI chatbot with advanced NLP capabilities, document processing, and enterprise-grade security for public sector organizations.
 
-## 🎯 Overview
+## 🚀 Features
 
-INCLASS AI is a cutting-edge classroom attendance system that uses artificial intelligence and facial recognition technology to automate student attendance tracking. It eliminates manual processes, saves time, and provides accurate, real-time attendance analytics.
+### Core Capabilities
+- **Deep Learning NLP**: Advanced semantic understanding using sentence transformers
+- **Document Processing**: PDF, DOCX, TXT file analysis with summarization and keyword extraction
+- **Multi-domain Knowledge**: HR policies, IT support, company events, organizational matters
+- **Real-time Chat**: Responsive AI assistant with context-aware responses
 
-### ✨ Key Features
+### Security & Compliance
+- **Two-Factor Authentication (2FA)**: Email-based verification system
+- **Content Filtering**: Bad language detection and filtering
+- **Rate Limiting**: Protection against abuse and DDoS attacks
+- **Session Management**: Secure user sessions with expiration
 
-- **🤖 AI-Powered Recognition** - Advanced facial recognition with 99.7% accuracy
-- **⚡ Real-time Processing** - Process entire classrooms in seconds
-- **📊 Smart Analytics** - Comprehensive attendance reports and insights
-- **📱 Mobile Ready** - Works perfectly on all devices
-- **🔒 Privacy First** - Local processing, no cloud dependency
-- **📈 Live Dashboard** - Real-time statistics and trends
-- **📤 Easy Export** - Export data to CSV, PDF, and Excel formats
+### Performance & Scalability
+- **Response Time < 5s**: Optimized for quick responses
+- **Concurrent Users**: Supports minimum 5 parallel users
+- **Efficient Processing**: Background task management
+- **Resource Optimization**: Memory and CPU efficient
 
-## 🚀 Quick Start
+## 🛠 Installation & Setup
 
 ### Prerequisites
-
-- Python 3.8 or higher
-- Webcam (for live attendance)
+- Python 3.8+
+- pip package manager
 - Modern web browser
 
-### Installation
+### Quick Start
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/harshi111/inclass-ai.git
-cd inclass-ai
+1. **Clone/Download the project files**
+
+2. **Install backend dependencies**:
+   ```bash
+   cd backend
+   pip install -r requirements.txt
