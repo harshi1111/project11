@@ -22,6 +22,8 @@ A comprehensive, production-ready AI chatbot with advanced NLP capabilities, doc
 - **Efficient Processing**: Background task management
 - **Resource Optimization**: Memory and CPU efficient
 
+<img width="480" height="468" alt="image" src="https://github.com/user-attachments/assets/ef64d71e-c869-4d1e-8d62-0686daf095b4" />
+
 ## 🛠 Installation & Setup
 
 ### Prerequisites
@@ -36,4 +38,5 @@ A comprehensive, production-ready AI chatbot with advanced NLP capabilities, doc
 2. **Install backend dependencies**:
    ```bash
    cd backend
+
    pip install -r requirements.txt
